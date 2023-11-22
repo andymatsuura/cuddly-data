@@ -1,0 +1,2 @@
+# cuddly-data
+data class
